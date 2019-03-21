@@ -1,0 +1,19 @@
+{
+  "name": "analyticstest",
+  "version": "1.0.0",
+  "description": "testing analystics data production",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "test",
+    "web",
+    "analytics"
+  ],
+  "author": "yann floch",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  }
+}
